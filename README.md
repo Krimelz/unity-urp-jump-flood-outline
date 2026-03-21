@@ -5,7 +5,7 @@ Unity 6.3+ and URP 17.3+ version. Render Graph only.
 # Features
 
 * Outline effect using Jump Flood algorithm 
-* Allows make ...
+* Allows rendering of wide outlines with high performance 
 
 # Installation
 
